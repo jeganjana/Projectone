@@ -1,0 +1,130 @@
+
+.cointainor{
+    background-color: rgb(155, 145, 154);
+    display: flex;
+    justify-content:space-between;
+    
+    
+}
+
+.class1{
+    padding: 10px  0px 0px 150px;
+  
+}
+
+.class2
+{
+
+  text-align: right;
+  padding: 0px 40px 0px 0px;
+  text-decoration: none;
+  
+}
+   
+p::first-line{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    background-color: rgba(128, 226, 71, 0.931);
+}
+
+h4{
+    text-align: center;
+    border: 2px solid;
+    margin-right: 550px;
+    background-color: rgb(255, 1, 1);
+}
+    
+h1{
+    text-align: center;
+}
+
+.images{
+
+    display: flex;
+    flex-flow: wrap;
+    padding: 30px;
+    justify-content: center;
+}
+
+.class3{
+    padding: 30px;
+}
+
+.class4{
+    padding: 30px;
+}
+
+.class5{
+    padding: 30px;
+}
+
+.class6{
+    padding: 30px;
+}
+
+.class7{
+    padding: 30px;
+}
+
+.class8{
+    padding: 30px;
+}
+h2{
+    text-align: center;
+}
+
+.cars {
+    display: flex;
+    justify-content:space-evenly;
+    background-color: orangered;
+    padding: 50px;
+    
+}
+
+.class9 h3{
+   
+    
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    
+}
+
+.class9 ul{
+    
+    text-align: left;
+    width: 300px;
+    height:100px ;
+    color: blanchedalmond;
+    background-color: black;
+}
+
+.class10 h3{
+    text-align:center;
+    background-color: red;
+    color: blanchedalmond;
+    
+    
+}
+
+.class10 ul{
+background-color:red ;
+text-align: left;
+    width: 300px;
+    height:100px ;
+    color: blanchedalmond;
+    
+}
+
+h5{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
+
+
